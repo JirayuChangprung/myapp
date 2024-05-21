@@ -1,0 +1,19 @@
+.login-container {
+    width: 400px;
+    height: 300px;
+    margin: 40% 10%;
+    padding: 0px;
+    border-radius: 5px;
+    text-align: start;
+  }
+ 
+.text-container {
+    width: 400px;
+    /* height: 300px; */
+    margin: 120% 15%;
+    font-size: 16px;
+    padding: 0px;
+    text-align: start;
+}
+
+  

@@ -1,0 +1,15 @@
+export { default as egg } from "./egg.jpg";
+export { default as FriedPork } from "./FriedPork.jpg";
+export { default as FriedRice } from "./FriedRice.jpg";
+export { default as FriedSpringRolls } from "./FriedSpringRolls.jpg";
+export { default as mixed } from "./mixed.jpg";
+export { default as Naem } from "./Naem.jpeg";
+export { default as PadThai } from "./PadThai.jpg";
+export { default as PanFriedEggs1 } from "./PanFriedEggs.jpg";
+export { default as PanFriedEggs2 } from "./PanFriedEggs+.jpeg";
+export { default as PangYuanji } from "./PangYuanji.jpg";
+export { default as papayasalad } from "./papayasalad.jpg";
+export { default as Porkmeatballs } from "./Porkmeatballs.png";
+export { default as Porksausage } from "./Porksausage.jpg";
+export { default as VietnamesePizza } from "./VietnamesePizza.jpg";
+export { default as eggPot } from "./eggPot.jpg";
